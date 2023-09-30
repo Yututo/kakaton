@@ -1,0 +1,105 @@
+.container {
+	width: 1920px;
+	height: 1508px;
+}
+.header {
+	width: 1920px;
+	height: 75px;
+	flex-shrink: 0;
+	border: 1px solid rgba(167, 167, 167, 0.50);
+	background: #FFF;
+}
+.logo2 {
+	position: absolute;
+	left: 173px;
+	top: 3px;
+	width: 70px;
+	height: 70px;
+	flex-shrink: 0;
+	fill: #D9D9D9;
+}
+.text1 {
+	position: absolute;
+	left: 441px;
+	top: 14px;
+	width: 90px;
+	height: 32px;
+	flex-direction: column;
+	justify-content: center;
+	flex-shrink: 0;
+	color: #000;
+	text-align: center;
+	font-family: Open Sans;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: normal;
+}
+.text2 {
+	position: absolute;
+	left: 560px;
+	top: 14px;
+	width: 120px;
+	height: 32px;
+	flex-direction: column;
+	justify-content: center;
+	flex-shrink: 0;
+	color: #000;
+	text-align: center;
+	font-family: Open Sans;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: normal;
+}
+.text3 {
+	position: absolute;
+	left: 710px;
+	top: 14px;
+	width: 200px;
+	height: 32px;
+	flex-direction: column;
+	justify-content: center;
+	flex-shrink: 0;
+	color: #000;
+	text-align: center;
+	font-family: Open Sans;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: normal;
+}
+.text4 {
+	position: absolute;
+	left: 910px;
+	top: 14px;
+	width: 200px;
+	height: 32px;
+	flex-direction: column;
+	justify-content: center;
+	flex-shrink: 0;
+	color: #000;
+	text-align: center;
+	font-family: Open Sans;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: normal;
+}
+.text5 {
+	position: absolute;
+	left: 1650px;
+	top: 14px;
+	width: 200px;
+	height: 32px;
+	flex-direction: column;
+	justify-content: center;
+	flex-shrink: 0;
+	color: #000;
+	text-align: center;
+	font-family: Open Sans;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 600;
+	line-height: normal;
+}
