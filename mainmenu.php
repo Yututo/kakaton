@@ -12,42 +12,33 @@
 	<div class="container">
 		<div class="header">
 			<img src="logo2.png" class="logo2">
-			<p class="text1">Главная</p>
-			<p class="text2">Карта КФЕН</p>
-			<p class="text3">Меню "СЭРГЭЛЭЭХ"</p>
-			<p class="text4">Расписание СУНЦ</p>
-			<p class="text5">Личный кабинет</p>
+			<a href="mainmenu.php" class="text1">Главная</a>
+			<a href="" class="text2">Карта КФЕН</a>
+			<a href="" class="text3">Меню "СЭРГЭЛЭЭХ"</a>
+			<a href="" class="text4">Расписание СУНЦ</a>
+			<a href="lk.php" class="text5">Личный кабинет</a>
 		</div>
 		<div class="center">
-			<!-- Slideshow container -->
 			<div class="slideshow-container">
-
-  				<!-- Full-width images with number and caption text -->
   				<div class="mySlides fade">
     				<div class="numbertext"></div>
     				<img src="1.png" style="width:100%">
     				<div class="text">Caption first</div>
   				</div>
-
  				<div class="mySlides fade">
     				<div class="numbertext"></div>
     				<img src="1.png" style="width:100%">
     				<div class="text">Caption Two</div>
  				</div>
-
   				<div class="mySlides fade">
     				<div class="numbertext"></div>
     				<img src="1.png" style="width:100%">
     				<div class="text">Caption Three</div>
 				</div>
-
-  				<!-- Next and previous buttons -->
   				<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
   				<a class="next" onclick="plusSlides(1)">&#10095;</a>
 			</div>
 			<br>
-
-			<!-- The dots/circles -->
 			<div style="text-align:center">
   				<span class="dot" onclick="currentSlide(1)"></span>
   				<span class="dot1" onclick="currentSlide(2)"></span>

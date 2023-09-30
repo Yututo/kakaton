@@ -1,0 +1,36 @@
+.header {
+	width: 1903px;
+	height: 200px;
+	flex-shrink: 0;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	background: #D9D9D9;
+}
+.avatarlk {
+	position: absolute;
+	top: 15px;
+	left: 15px;
+}
+.namepeople {
+	position: absolute;
+	top: 25px;
+	left: 200px;
+}
+.classpeople {
+	position: absolute;
+	top: 55px;
+	left: 200px;
+}
+.center {
+	width: 1900px;
+}
+.otsenki {
+	margin-left: 30px;
+	margin-top: 30px;
+	width: 1855px;
+	height: 1400px;
+	flex-shrink: 0;
+	border-radius: 10px;
+	border: 1px solid rgba(67, 0, 153, 0.88);
+	background: #D9D9D9;
+}
